@@ -1,4 +1,4 @@
-#include "MonitoringController.h"
+﻿#include "MonitoringController.h"
 #include "../Model/DataStore.h"
 #include <algorithm>
 #include <numeric>
